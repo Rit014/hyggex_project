@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hyggex_project/static/css/main.9e1d788b.css",
+    "main.js": "/hyggex_project/static/js/main.fd25c50c.js",
+    "index.html": "/hyggex_project/index.html",
+    "main.9e1d788b.css.map": "/hyggex_project/static/css/main.9e1d788b.css.map",
+    "main.fd25c50c.js.map": "/hyggex_project/static/js/main.fd25c50c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1d788b.css",
+    "static/js/main.fd25c50c.js"
+  ]
+}
